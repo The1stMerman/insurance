@@ -1,1 +1,1 @@
-# insurance
+Project insurance example.
